@@ -1,0 +1,14 @@
+PODS:
+  - ClientDetails (0.1.0)
+
+DEPENDENCIES:
+  - ClientDetails (from `../`)
+
+EXTERNAL SOURCES:
+  ClientDetails:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ClientDetails: 4538ea5999e8aaeb5c284de63a7f0af7a5e3d4d2
+
+COCOAPODS: 0.39.0
